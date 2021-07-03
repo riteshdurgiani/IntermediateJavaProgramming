@@ -1,0 +1,2 @@
+This is content of file 2 written as byte array This is content of file 2 written as byte array appended toend 
+This is content of file 2 written as byte array appended toend 
